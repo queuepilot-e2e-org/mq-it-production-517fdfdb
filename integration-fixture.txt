@@ -1,2 +1,2 @@
 run=conflict-7080188b
-conflict-branch
+conflicting-head
